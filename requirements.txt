@@ -3,6 +3,4 @@ streamlit-webrtc
 av
 opencv-contrib-python
 mediapipe==0.10.21
-numpy==1.26.4
-matplotlib
-psutil
+numpy

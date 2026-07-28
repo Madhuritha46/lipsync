@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+logs/*.log
+database/*.db
+history_exports/*
+!history_exports/.gitkeep
+.streamlit/
